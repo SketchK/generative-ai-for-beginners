@@ -32,7 +32,7 @@ LLM 模型有许多不同类型，您选择的模型取决于您的用途、您�
 
 根据您是否打算使用模型进行文本、音频、视频、图像生成等，您可能会选择不同类型的模型。
 
-- **音频和语音识别**。 为此，Whisper 模型是一个不错的选择，因为它们是通常用于语音识别。 它经过不同音频数据的训练，可以执行多语言语音识别。 例如，您可以使用所有的模型，从价格便宜但功能强大的模型（如 Curry）到更昂贵拥有高性能的达芬奇（Davinci）模型。 详细了解 [ Whisper 类型模型](https://platform.openai.com/docs/models/whisper?WT.mc_id=academic-105485-koreyst)。
+- **音频和语音识别**。 为此，Whisper类型模型是一个很好的选择，因为它们是通用的，专注于语音识别。它训练于多样化的音频，并且可以执行多语种的语音识别。在这里了解更多关于[Whisper类型模型](https://platform.openai.com/docs/models/whisper?WT.mc_id=academic-105485-koreyst)的信息。
 
 - **图像生成**。 对于图像生成，DALL-E 和 Midjourney 是两个最佳的选择。 DALL-E 由 Azure OpenAI 提供。 [在此处阅读有关 DALL-E 的更多信息](https://platform.openai.com/docs/models/dall-e?WT.mc_id=academic-105485-koreyst) 以及本课程的第九章。
 
